@@ -7,10 +7,10 @@ Original
 <img width="2048" height="1280" alt="image" src="https://github.com/user-attachments/assets/9dec21b4-dab7-4565-891f-0ee5a173c743" />
 
 Updated
- V1
+ Theme 1
  <img width="2558" height="1373" alt="Screenshot 2026-10-30 124945" src="https://github.com/user-attachments/assets/840177cd-d9ff-4026-9ba7-6651a1e5121b" />
 
- V2
+ Theme 2
  <img width="2557" height="1376" alt="Screenshot 2026-10-30 125229" src="https://github.com/user-attachments/assets/1eed3f63-7754-45de-9c8f-4cda376f678d" />
 
 Photon dark Mode https://addons.mozilla.org/en-US/firefox/addon/photon-dark-theme_/
