@@ -11,6 +11,11 @@ Updated
  V2
  <img width="2557" height="1376" alt="Screenshot 2026-10-30 125229" src="https://github.com/user-attachments/assets/1eed3f63-7754-45de-9c8f-4cda376f678d" />
 
+Photon dark Mode https://addons.mozilla.org/en-US/firefox/addon/photon-dark-theme_/
+
+Photon Light Mode https://addons.mozilla.org/en-US/firefox/addon/australis-classic-2015/
+
+
  the original https://github.com/wilfredwee/photon-australis
  the Australis theme https://github.com/QNetITQ/WaveFox
  and Credits to [https://www.reddit.com/r/FirefoxCSS/comments/1b4udqz/change_ff_logo_to_custom_png/ ](https://www.reddit.com/user/ResurgamS13/)
