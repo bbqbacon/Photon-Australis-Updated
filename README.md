@@ -6,8 +6,8 @@ For more customization go to wavefox's github link https://github.com/QNetITQ/Wa
 Original 
 <img width="2048" height="1280" alt="image" src="https://github.com/user-attachments/assets/9dec21b4-dab7-4565-891f-0ee5a173c743" />
 
-Updated
- Theme 1
+
+  Updated version   Theme 1
  <img width="2558" height="1373" alt="Screenshot 2026-10-30 124945" src="https://github.com/user-attachments/assets/840177cd-d9ff-4026-9ba7-6651a1e5121b" />
 
  Theme 2
