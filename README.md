@@ -13,6 +13,7 @@ Updated
 
  the original https://github.com/wilfredwee/photon-australis
  the Australis theme https://github.com/QNetITQ/WaveFox
-
+ and Credits to [https://www.reddit.com/r/FirefoxCSS/comments/1b4udqz/change_ff_logo_to_custom_png/ ](https://www.reddit.com/user/ResurgamS13/)
+ for the the custom image script
 
 
