@@ -1,6 +1,6 @@
 # Photon-Australis-Updated
 Updating wilfredwee's Photon Australis theme :]
-/
+
 For more customization go to wavefox's github link https://github.com/QNetITQ/WaveFox
 
 Original 
