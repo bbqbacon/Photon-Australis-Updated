@@ -15,7 +15,7 @@ Original
 
 Photon dark Mode https://addons.mozilla.org/en-US/firefox/addon/photon-dark-theme_/
 
-Photon Light Mode https://addons.mozilla.org/en-US/firefox/addon/australis-classic-2015/
+Photon Light Mode https://addons.mozilla.org/en-US/firefox/addon/photon-light-borderless
 
 
  the original https://github.com/wilfredwee/photon-australis
